@@ -135,7 +135,6 @@ GameObject:
   - component: {fileID: 219107780}
   - component: {fileID: 219107779}
   - component: {fileID: 219107778}
-  - component: {fileID: 219107782}
   m_Layer: 0
   m_Name: BL1
   m_TagString: Untagged
@@ -213,18 +212,24 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 219107777}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
   m_LocalPosition: {x: -0.0369, y: -0.0505, z: 18}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0369, y: -0.0505, z: 8}
+>>>>>>> parent of c9f82e9 (game)
   m_LocalScale: {x: 20.86513, y: 11.097103, z: 21.132233}
 =======
   m_LocalPosition: {x: 0.0518, y: -0.0015, z: 18}
   m_LocalScale: {x: 13.564014, y: 10.240195, z: 21.132233}
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
   m_Children: []
-  m_Father: {fileID: 519420032}
+  m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &219107782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -242,6 +247,8 @@ MonoBehaviour:
 =======
   speed: 0
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+=======
+>>>>>>> parent of c9f82e9 (game)
 --- !u!1 &343045160
 GameObject:
   m_ObjectHideFlags: 0
@@ -370,14 +377,6 @@ Transform:
   - {fileID: 731514670}
   - {fileID: 1075474515}
   - {fileID: 895000032}
-  - {fileID: 219107781}
-  - {fileID: 1024717449}
-  - {fileID: 1770128489}
-  - {fileID: 1279572033}
-  - {fileID: 684214082}
-  - {fileID: 1088713791}
-  - {fileID: 1075364187}
-  - {fileID: 1828063164}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -393,7 +392,6 @@ GameObject:
   - component: {fileID: 684214081}
   - component: {fileID: 684214080}
   - component: {fileID: 684214079}
-  - component: {fileID: 684214083}
   m_Layer: 0
   m_Name: BL5
   m_TagString: Untagged
@@ -471,18 +469,24 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 684214078}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
   m_LocalPosition: {x: -0.0369, y: -0.0505, z: 14}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0369, y: -0.0505, z: 4}
+>>>>>>> parent of c9f82e9 (game)
   m_LocalScale: {x: 20.86513, y: 11.097103, z: 21.132233}
 =======
   m_LocalPosition: {x: 0.0518, y: -0.0015, z: 14}
   m_LocalScale: {x: 13.564014, y: 10.240195, z: 21.132233}
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
   m_Children: []
-  m_Father: {fileID: 519420032}
+  m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &684214083
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -500,6 +504,8 @@ MonoBehaviour:
 =======
   speed: 0.099
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+=======
+>>>>>>> parent of c9f82e9 (game)
 --- !u!1 &731514668
 GameObject:
   m_ObjectHideFlags: 0
@@ -543,7 +549,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 731514668}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.77, y: -0.4, z: 7.92349}
+  m_LocalPosition: {x: 7.77, y: 1.02, z: 7.92349}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 519420032}
@@ -635,10 +641,14 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: a5c863c6269f3504681a25e6a5f41157, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Color: {r: 0.054168224, g: 0.025097892, b: 0.11320752, a: 1}
 =======
   m_Color: {r: 0, g: 0, b: 0, a: 1}
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+=======
+  m_Color: {r: 0.35506406, g: 0.7425673, b: 0.9528302, a: 1}
+>>>>>>> parent of c9f82e9 (game)
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -861,7 +871,6 @@ GameObject:
   - component: {fileID: 1024717448}
   - component: {fileID: 1024717447}
   - component: {fileID: 1024717446}
-  - component: {fileID: 1024717450}
   m_Layer: 0
   m_Name: BL2
   m_TagString: Untagged
@@ -939,18 +948,24 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1024717445}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
   m_LocalPosition: {x: -0.0369, y: -0.0505, z: 17}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0369, y: -0.0505, z: 7}
+>>>>>>> parent of c9f82e9 (game)
   m_LocalScale: {x: 20.86513, y: 11.097103, z: 21.132233}
 =======
   m_LocalPosition: {x: 0.0518, y: -0.0015, z: 17}
   m_LocalScale: {x: 13.564014, y: 10.240195, z: 21.132233}
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
   m_Children: []
-  m_Father: {fileID: 519420032}
+  m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1024717450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -968,6 +983,8 @@ MonoBehaviour:
 =======
   speed: 0.0999
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+=======
+>>>>>>> parent of c9f82e9 (game)
 --- !u!1 &1075364183
 GameObject:
   m_ObjectHideFlags: 0
@@ -980,7 +997,6 @@ GameObject:
   - component: {fileID: 1075364186}
   - component: {fileID: 1075364185}
   - component: {fileID: 1075364184}
-  - component: {fileID: 1075364188}
   m_Layer: 0
   m_Name: BL7
   m_TagString: Untagged
@@ -1058,18 +1074,24 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1075364183}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
   m_LocalPosition: {x: -0.0369, y: -0.0505, z: 12}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0369, y: -0.0505, z: 2}
+>>>>>>> parent of c9f82e9 (game)
   m_LocalScale: {x: 20.86513, y: 11.097103, z: 21.132233}
 =======
   m_LocalPosition: {x: 0.0518, y: -0.0015, z: 12}
   m_LocalScale: {x: 13.564014, y: 10.240195, z: 21.132233}
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
   m_Children: []
-  m_Father: {fileID: 519420032}
+  m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1075364188
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1087,6 +1109,8 @@ MonoBehaviour:
 =======
   speed: 0.08
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+=======
+>>>>>>> parent of c9f82e9 (game)
 --- !u!1 &1075474513
 GameObject:
   m_ObjectHideFlags: 0
@@ -1121,7 +1145,7 @@ MonoBehaviour:
   - {fileID: 8347931767481805086, guid: 49d75aed231b2b048916ab4682000c6e, type: 3}
   - {fileID: 8611199294505507486, guid: ebb6837d3293dd540af87378217104cd, type: 3}
   minSpawnTime: 0.5
-  maxSpawnTime: 2.6
+  maxSpawnTime: 2
 --- !u!4 &1075474515
 Transform:
   m_ObjectHideFlags: 0
@@ -1130,7 +1154,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1075474513}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.78, y: -2.74, z: 7.92349}
+  m_LocalPosition: {x: 7.78, y: -1.32, z: 7.92349}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 519420032}
@@ -1148,7 +1172,6 @@ GameObject:
   - component: {fileID: 1088713790}
   - component: {fileID: 1088713789}
   - component: {fileID: 1088713788}
-  - component: {fileID: 1088713792}
   m_Layer: 0
   m_Name: BL6
   m_TagString: Untagged
@@ -1226,18 +1249,24 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1088713787}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
   m_LocalPosition: {x: -0.0369, y: -0.0505, z: 13}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0369, y: -0.0505, z: 3}
+>>>>>>> parent of c9f82e9 (game)
   m_LocalScale: {x: 20.86513, y: 11.097103, z: 21.132233}
 =======
   m_LocalPosition: {x: 0.0518, y: -0.0015, z: 13}
   m_LocalScale: {x: 13.564014, y: 10.240195, z: 21.132233}
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
   m_Children: []
-  m_Father: {fileID: 519420032}
+  m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1088713792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1255,6 +1284,8 @@ MonoBehaviour:
 =======
   speed: 0.099
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+=======
+>>>>>>> parent of c9f82e9 (game)
 --- !u!1 &1279572029
 GameObject:
   m_ObjectHideFlags: 0
@@ -1267,7 +1298,6 @@ GameObject:
   - component: {fileID: 1279572032}
   - component: {fileID: 1279572031}
   - component: {fileID: 1279572030}
-  - component: {fileID: 1279572034}
   m_Layer: 0
   m_Name: BL4
   m_TagString: Untagged
@@ -1345,18 +1375,24 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1279572029}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
   m_LocalPosition: {x: -0.0369, y: -0.0505, z: 15}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0369, y: -0.0505, z: 5}
+>>>>>>> parent of c9f82e9 (game)
   m_LocalScale: {x: 20.86513, y: 11.097103, z: 21.132233}
 =======
   m_LocalPosition: {x: 0.0518, y: -0.0015, z: 15}
   m_LocalScale: {x: 13.564014, y: 10.240195, z: 21.132233}
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
   m_Children: []
-  m_Father: {fileID: 519420032}
+  m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1279572034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1374,6 +1410,8 @@ MonoBehaviour:
 =======
   speed: 0.099
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+=======
+>>>>>>> parent of c9f82e9 (game)
 --- !u!1 &1487164026
 GameObject:
   m_ObjectHideFlags: 0
@@ -1419,7 +1457,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1487164026}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.45, y: 2.34, z: 7.92349}
+  m_LocalPosition: {x: 7.45, y: 3.05, z: 7.92349}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 519420032}
@@ -1437,7 +1475,6 @@ GameObject:
   - component: {fileID: 1770128488}
   - component: {fileID: 1770128487}
   - component: {fileID: 1770128486}
-  - component: {fileID: 1770128490}
   m_Layer: 0
   m_Name: BL3
   m_TagString: Untagged
@@ -1515,18 +1552,24 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1770128485}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
   m_LocalPosition: {x: -0.0369, y: -0.0505, z: 16}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0369, y: -0.0505, z: 6}
+>>>>>>> parent of c9f82e9 (game)
   m_LocalScale: {x: 20.86513, y: 11.097103, z: 21.132233}
 =======
   m_LocalPosition: {x: 0.0518, y: -0.0015, z: 16}
   m_LocalScale: {x: 13.564014, y: 10.240195, z: 21.132233}
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
   m_Children: []
-  m_Father: {fileID: 519420032}
+  m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1770128490
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1544,6 +1587,8 @@ MonoBehaviour:
 =======
   speed: 0.0899
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+=======
+>>>>>>> parent of c9f82e9 (game)
 --- !u!1 &1804249481
 GameObject:
   m_ObjectHideFlags: 0
@@ -1559,7 +1604,7 @@ GameObject:
   - component: {fileID: 1804249486}
   - component: {fileID: 1804249487}
   m_Layer: 0
-  m_Name: Player
+  m_Name: player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1725,7 +1770,6 @@ GameObject:
   - component: {fileID: 1828063163}
   - component: {fileID: 1828063162}
   - component: {fileID: 1828063161}
-  - component: {fileID: 1828063165}
   m_Layer: 0
   m_Name: BL8
   m_TagString: Untagged
@@ -1803,18 +1847,24 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1828063160}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
   m_LocalPosition: {x: -0.0369, y: -0.0505, z: 11}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0369, y: -0.0505, z: 1}
+>>>>>>> parent of c9f82e9 (game)
   m_LocalScale: {x: 20.86513, y: 11.097103, z: 21.132233}
 =======
   m_LocalPosition: {x: 0.0518, y: -0.0015, z: 11}
   m_LocalScale: {x: 13.564014, y: 10.240195, z: 21.132233}
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
   m_Children: []
-  m_Father: {fileID: 519420032}
+  m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1828063165
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1832,6 +1882,8 @@ MonoBehaviour:
 =======
   speed: 0.06
 >>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+=======
+>>>>>>> parent of c9f82e9 (game)
 --- !u!1 &2074081792
 GameObject:
   m_ObjectHideFlags: 0
@@ -1923,5 +1975,5 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
