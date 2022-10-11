@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 982da85f861996542b9c9bbb9d2d1b9f
+=======
+guid: e93ff0c9340074a48b4c25b194deabe1
+>>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -77,7 +81,11 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+<<<<<<< HEAD
     textureCompression: 1
+=======
+    textureCompression: 2
+>>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -89,7 +97,11 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+<<<<<<< HEAD
     textureCompression: 1
+=======
+    textureCompression: 2
+>>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
