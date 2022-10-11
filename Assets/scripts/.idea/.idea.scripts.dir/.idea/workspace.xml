@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c53d9965-fc52-431d-a02c-6fd3cd46d084" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Endlessrunner.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Endlessrunner.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 6.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner 7.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner foreground8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../drive-download-20221010T094220Z-001/background endless runner foreground8.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../main menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripts.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Menu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parallax.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Parallax.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../UserSettings/EditorUserSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="c53d9965-fc52-431d-a02c-6fd3cd46d084" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,12 +103,12 @@
       <updated>1665398979058</updated>
       <workItem from="1665398991788" duration="238000" />
       <workItem from="1665483971420" duration="596000" />
-      <workItem from="1665485459638" duration="101000" />
+      <workItem from="1665485459638" duration="696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="935000" />
+    <option name="totallyTimeSpent" value="1530000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -136,7 +121,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2052" y="154" width="1440" height="780" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2557971" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

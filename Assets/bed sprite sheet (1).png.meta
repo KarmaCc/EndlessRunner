@@ -1,20 +1,16 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 982da85f861996542b9c9bbb9d2d1b9f
-=======
-guid: e93ff0c9340074a48b4c25b194deabe1
->>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
+guid: 137216f06b87094488802de82bb059b1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8983444649243905505
-    second: bed sprite sheet_0
+      213: 6189818404567806472
+    second: bed sprite sheet (1)_0
   - first:
-      213: 921442330400590734
-    second: bed sprite sheet_1
+      213: 6676594237009577316
+    second: bed sprite sheet (1)_1
   - first:
-      213: 6275714533894168181
-    second: bed sprite sheet_2
+      213: -1386784614858753867
+    second: bed sprite sheet (1)_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -81,11 +77,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-<<<<<<< HEAD
     textureCompression: 1
-=======
-    textureCompression: 2
->>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,11 +89,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-<<<<<<< HEAD
     textureCompression: 1
-=======
-    textureCompression: 2
->>>>>>> c803487d75193e6cf42da22822ef33242da1af7b
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -112,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bed sprite sheet_0
+      name: bed sprite sheet (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -126,14 +114,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f12fe6610b4645380800000000000000
-      internalID: -8983444649243905505
+      spriteID: 802707c3b07a6e550800000000000000
+      internalID: 6189818404567806472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bed sprite sheet_1
+      name: bed sprite sheet (1)_1
       rect:
         serializedVersion: 2
         x: 200
@@ -147,14 +135,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8b0980eaee99cc00800000000000000
-      internalID: 921442330400590734
+      spriteID: 465406e951708ac50800000000000000
+      internalID: 6676594237009577316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bed sprite sheet_2
+      name: bed sprite sheet (1)_2
       rect:
         serializedVersion: 2
         x: 400
@@ -168,8 +156,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57e94805e11d71750800000000000000
-      internalID: 6275714533894168181
+      spriteID: 5b8fd538db621cce0800000000000000
+      internalID: -1386784614858753867
       vertices: []
       indices: 
       edges: []
