@@ -32,8 +32,8 @@ public class PlayerController : MonoBehaviour
         //float movementValueX = Input.GetAxis("Horizontal");
         float movementValueX = 1.0f;
         {
-            anim.SetFloat("Speed", Mathf.Abs(movementValueX));
-            anim.SetBool("IsOnGround", isOnGround);
+            anim.SetFloat("speed", Mathf.Abs(movementValueX));
+            anim.SetBool("isOnGround", isOnGround);
         }
         //Change the X velocity of the Rigidbody2D to be equal to the movement value 
         playerObject.velocity = new Vector2(movementValueX * maxSpeed, playerObject.velocity.y);
