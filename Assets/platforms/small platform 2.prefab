@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 130709434014654885}
   - component: {fileID: 8001020315788262786}
   - component: {fileID: 4933099462463061208}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: small platform 2
-  m_TagString: Untagged
+  m_TagString: CleanUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26,8 +26,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4670537969523324507}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.557885, y: -2.739821, z: 0}
-  m_LocalScale: {x: 2.7453, y: 2.7453, z: 2.7453}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2.801359, y: 1.896282, z: 2.814831}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -96,7 +96,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.22198738, y: -0.2219873}
+  m_Offset: {x: 0.207533, y: -0.19840032}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -107,5 +107,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.80645776, y: 0.27599394}
+  m_Size: {x: 0.76461124, y: 0.19091165}
   m_EdgeRadius: 0
