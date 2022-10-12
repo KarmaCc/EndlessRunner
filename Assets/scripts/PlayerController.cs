@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
 
     float maxSpeed = 7.0f;
     bool isOnGround = false;
+    
     //Create a reference to the Rigidbody2D so we can manipulate it
     Rigidbody2D playerObject;
 
@@ -44,6 +45,11 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && isOnGround == true) 
         {
             playerObject.AddForce(new Vector2(0.0f, 400.0f));
+          
         }
+      
     }
+
+ 
+    
 }
